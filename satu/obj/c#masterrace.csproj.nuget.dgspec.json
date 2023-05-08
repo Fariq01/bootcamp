@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c#masterrace\\satu\\c#masterrace.csproj": {}
+    "c:\\c#masterrace\\satu\\c#masterrace.csproj": {}
   },
   "projects": {
-    "C:\\c#masterrace\\satu\\c#masterrace.csproj": {
+    "c:\\c#masterrace\\satu\\c#masterrace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c#masterrace\\satu\\c#masterrace.csproj",
+        "projectUniqueName": "c:\\c#masterrace\\satu\\c#masterrace.csproj",
         "projectName": "c#masterrace",
-        "projectPath": "C:\\c#masterrace\\satu\\c#masterrace.csproj",
+        "projectPath": "c:\\c#masterrace\\satu\\c#masterrace.csproj",
         "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "C:\\c#masterrace\\satu\\obj\\",
+        "outputPath": "c:\\c#masterrace\\satu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
