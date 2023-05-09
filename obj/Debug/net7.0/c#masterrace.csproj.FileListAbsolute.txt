@@ -1,0 +1,5 @@
+C:\c#masterrace\obj\Debug\net7.0\c#masterrace.csproj.AssemblyReference.cache
+C:\c#masterrace\obj\Debug\net7.0\c#masterrace.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\obj\Debug\net7.0\c#masterrace.AssemblyInfoInputs.cache
+C:\c#masterrace\obj\Debug\net7.0\c#masterrace.AssemblyInfo.cs
+C:\c#masterrace\obj\Debug\net7.0\c#masterrace.csproj.CoreCompileInputs.cache
