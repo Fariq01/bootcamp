@@ -1,0 +1,5 @@
+C:\Formulatrix\day3\obj\Debug\net7.0\day3.csproj.AssemblyReference.cache
+C:\Formulatrix\day3\obj\Debug\net7.0\day3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formulatrix\day3\obj\Debug\net7.0\day3.AssemblyInfoInputs.cache
+C:\Formulatrix\day3\obj\Debug\net7.0\day3.AssemblyInfo.cs
+C:\Formulatrix\day3\obj\Debug\net7.0\day3.csproj.CoreCompileInputs.cache
