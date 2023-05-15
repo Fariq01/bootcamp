@@ -1,0 +1,15 @@
+C:\Formulatrix\day4\override\abstract\bin\Debug\net7.0\abstract.exe
+C:\Formulatrix\day4\override\abstract\bin\Debug\net7.0\abstract.deps.json
+C:\Formulatrix\day4\override\abstract\bin\Debug\net7.0\abstract.runtimeconfig.json
+C:\Formulatrix\day4\override\abstract\bin\Debug\net7.0\abstract.dll
+C:\Formulatrix\day4\override\abstract\bin\Debug\net7.0\abstract.pdb
+C:\Formulatrix\day4\override\abstract\obj\Debug\net7.0\abstract.csproj.AssemblyReference.cache
+C:\Formulatrix\day4\override\abstract\obj\Debug\net7.0\abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formulatrix\day4\override\abstract\obj\Debug\net7.0\abstract.AssemblyInfoInputs.cache
+C:\Formulatrix\day4\override\abstract\obj\Debug\net7.0\abstract.AssemblyInfo.cs
+C:\Formulatrix\day4\override\abstract\obj\Debug\net7.0\abstract.csproj.CoreCompileInputs.cache
+C:\Formulatrix\day4\override\abstract\obj\Debug\net7.0\abstract.dll
+C:\Formulatrix\day4\override\abstract\obj\Debug\net7.0\refint\abstract.dll
+C:\Formulatrix\day4\override\abstract\obj\Debug\net7.0\abstract.pdb
+C:\Formulatrix\day4\override\abstract\obj\Debug\net7.0\abstract.genruntimeconfig.cache
+C:\Formulatrix\day4\override\abstract\obj\Debug\net7.0\ref\abstract.dll
