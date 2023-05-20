@@ -1,0 +1,15 @@
+C:\Formulatrix\Week1\day5\nested\obj\Debug\net7.0\nested.csproj.AssemblyReference.cache
+C:\Formulatrix\Week1\day5\nested\obj\Debug\net7.0\nested.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formulatrix\Week1\day5\nested\obj\Debug\net7.0\nested.AssemblyInfoInputs.cache
+C:\Formulatrix\Week1\day5\nested\obj\Debug\net7.0\nested.AssemblyInfo.cs
+C:\Formulatrix\Week1\day5\nested\obj\Debug\net7.0\nested.csproj.CoreCompileInputs.cache
+C:\Formulatrix\Week1\day5\nested\bin\Debug\net7.0\nested.exe
+C:\Formulatrix\Week1\day5\nested\bin\Debug\net7.0\nested.deps.json
+C:\Formulatrix\Week1\day5\nested\bin\Debug\net7.0\nested.runtimeconfig.json
+C:\Formulatrix\Week1\day5\nested\bin\Debug\net7.0\nested.dll
+C:\Formulatrix\Week1\day5\nested\bin\Debug\net7.0\nested.pdb
+C:\Formulatrix\Week1\day5\nested\obj\Debug\net7.0\nested.dll
+C:\Formulatrix\Week1\day5\nested\obj\Debug\net7.0\refint\nested.dll
+C:\Formulatrix\Week1\day5\nested\obj\Debug\net7.0\nested.pdb
+C:\Formulatrix\Week1\day5\nested\obj\Debug\net7.0\nested.genruntimeconfig.cache
+C:\Formulatrix\Week1\day5\nested\obj\Debug\net7.0\ref\nested.dll

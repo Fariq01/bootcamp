@@ -1,0 +1,15 @@
+C:\Formulatrix\day5\Interface\obj\Debug\net7.0\Interface.csproj.AssemblyReference.cache
+C:\Formulatrix\day5\Interface\obj\Debug\net7.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formulatrix\day5\Interface\obj\Debug\net7.0\Interface.AssemblyInfoInputs.cache
+C:\Formulatrix\day5\Interface\obj\Debug\net7.0\Interface.AssemblyInfo.cs
+C:\Formulatrix\day5\Interface\obj\Debug\net7.0\Interface.csproj.CoreCompileInputs.cache
+C:\Formulatrix\day5\Interface\bin\Debug\net7.0\Interface.exe
+C:\Formulatrix\day5\Interface\bin\Debug\net7.0\Interface.deps.json
+C:\Formulatrix\day5\Interface\bin\Debug\net7.0\Interface.runtimeconfig.json
+C:\Formulatrix\day5\Interface\bin\Debug\net7.0\Interface.dll
+C:\Formulatrix\day5\Interface\bin\Debug\net7.0\Interface.pdb
+C:\Formulatrix\day5\Interface\obj\Debug\net7.0\Interface.dll
+C:\Formulatrix\day5\Interface\obj\Debug\net7.0\refint\Interface.dll
+C:\Formulatrix\day5\Interface\obj\Debug\net7.0\Interface.pdb
+C:\Formulatrix\day5\Interface\obj\Debug\net7.0\Interface.genruntimeconfig.cache
+C:\Formulatrix\day5\Interface\obj\Debug\net7.0\ref\Interface.dll

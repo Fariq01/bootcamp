@@ -1,0 +1,15 @@
+C:\Formulatrix\day5\enums\obj\Debug\net7.0\enums.csproj.AssemblyReference.cache
+C:\Formulatrix\day5\enums\obj\Debug\net7.0\enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formulatrix\day5\enums\obj\Debug\net7.0\enums.AssemblyInfoInputs.cache
+C:\Formulatrix\day5\enums\obj\Debug\net7.0\enums.AssemblyInfo.cs
+C:\Formulatrix\day5\enums\obj\Debug\net7.0\enums.csproj.CoreCompileInputs.cache
+C:\Formulatrix\day5\enums\bin\Debug\net7.0\enums.exe
+C:\Formulatrix\day5\enums\bin\Debug\net7.0\enums.deps.json
+C:\Formulatrix\day5\enums\bin\Debug\net7.0\enums.runtimeconfig.json
+C:\Formulatrix\day5\enums\bin\Debug\net7.0\enums.dll
+C:\Formulatrix\day5\enums\bin\Debug\net7.0\enums.pdb
+C:\Formulatrix\day5\enums\obj\Debug\net7.0\enums.dll
+C:\Formulatrix\day5\enums\obj\Debug\net7.0\refint\enums.dll
+C:\Formulatrix\day5\enums\obj\Debug\net7.0\enums.pdb
+C:\Formulatrix\day5\enums\obj\Debug\net7.0\enums.genruntimeconfig.cache
+C:\Formulatrix\day5\enums\obj\Debug\net7.0\ref\enums.dll
