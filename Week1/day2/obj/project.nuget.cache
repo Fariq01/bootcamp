@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/JgQS7tte9+Ajl903PpE4UIquXBFALlim8BYyryupQrHfQA4gm858Ns6JR4qhYc+2pZ7QkSFGTRf4TCVY+4fKw==",
+  "dgSpecHash": "dCk27SIi7jbjUV0R/+xwM6ayF55AVYWuJFBevj0AKCZi8D435r9uvZqlNSoIuMvBZrleZrlK42pG3Rg8IzugGQ==",
   "success": true,
-  "projectFilePath": "c:\\formulatrix\\day2\\c#masterrace.csproj",
+  "projectFilePath": "c:\\c#masterrace\\bootcamp\\Week1\\day2\\c#masterrace.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

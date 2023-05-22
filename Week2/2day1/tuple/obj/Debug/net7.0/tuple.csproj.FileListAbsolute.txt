@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\Week2\2day1\tuple\obj\Debug\net7.0\tuple.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\Week2\2day1\tuple\obj\Debug\net7.0\tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\Week2\2day1\tuple\obj\Debug\net7.0\tuple.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\Week2\2day1\tuple\obj\Debug\net7.0\tuple.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\Week2\2day1\tuple\obj\Debug\net7.0\tuple.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\Week2\2day1\tuple\bin\Debug\net7.0\tuple.exe
+C:\c#masterrace\bootcamp\Week2\2day1\tuple\bin\Debug\net7.0\tuple.deps.json
+C:\c#masterrace\bootcamp\Week2\2day1\tuple\bin\Debug\net7.0\tuple.runtimeconfig.json
+C:\c#masterrace\bootcamp\Week2\2day1\tuple\bin\Debug\net7.0\tuple.dll
+C:\c#masterrace\bootcamp\Week2\2day1\tuple\bin\Debug\net7.0\tuple.pdb
+C:\c#masterrace\bootcamp\Week2\2day1\tuple\obj\Debug\net7.0\tuple.dll
+C:\c#masterrace\bootcamp\Week2\2day1\tuple\obj\Debug\net7.0\refint\tuple.dll
+C:\c#masterrace\bootcamp\Week2\2day1\tuple\obj\Debug\net7.0\tuple.pdb
+C:\c#masterrace\bootcamp\Week2\2day1\tuple\obj\Debug\net7.0\tuple.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\Week2\2day1\tuple\obj\Debug\net7.0\ref\tuple.dll

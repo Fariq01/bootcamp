@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WiejWw6EkAHfYr4LBY/euHa7iZA2JZ5dxgxByfvsu8K6TdCEM9I1HpDg7imuRJh9ULZnG+Je+CggOf6ixdCmCw==",
+  "dgSpecHash": "zshXuuZ81LzvR+qiQFglbviPbfsKyoibsvY1Js9986xFRXuPm8njk+FOZM2IE4QVFFBGuG/hefKx4G079v7mXQ==",
   "success": true,
-  "projectFilePath": "C:\\Formulatrix\\day5\\enums\\enums.csproj",
+  "projectFilePath": "c:\\c#masterrace\\bootcamp\\Week1\\day5\\enums\\enums.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Er6vYHMVm3HZmP0/v3VdIos+dzOpxfMFhI5In+nJ7OkYQwhaGATh2GDpT2fW7FaiXBOfsEmuDCgnuLOi2GwkeQ==",
+  "dgSpecHash": "2Vd0Yb+y5aS4yMVKOgsELK1ep5NgX4MCm67HOWCUhNZzXWPARtkG6JePTz+6z/zTcmmZTuhHs1MuIuZ0lif7JQ==",
   "success": true,
-  "projectFilePath": "C:\\Formulatrix\\day5\\Interface\\Interface.csproj",
+  "projectFilePath": "c:\\c#masterrace\\bootcamp\\Week1\\day5\\Interface\\Interface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

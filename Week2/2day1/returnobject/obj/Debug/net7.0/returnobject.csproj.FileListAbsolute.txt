@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\Week2\2day1\returnobject\bin\Debug\net7.0\returnobject.exe
+C:\c#masterrace\bootcamp\Week2\2day1\returnobject\bin\Debug\net7.0\returnobject.deps.json
+C:\c#masterrace\bootcamp\Week2\2day1\returnobject\bin\Debug\net7.0\returnobject.runtimeconfig.json
+C:\c#masterrace\bootcamp\Week2\2day1\returnobject\bin\Debug\net7.0\returnobject.dll
+C:\c#masterrace\bootcamp\Week2\2day1\returnobject\bin\Debug\net7.0\returnobject.pdb
+C:\c#masterrace\bootcamp\Week2\2day1\returnobject\obj\Debug\net7.0\returnobject.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\Week2\2day1\returnobject\obj\Debug\net7.0\returnobject.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\Week2\2day1\returnobject\obj\Debug\net7.0\returnobject.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\Week2\2day1\returnobject\obj\Debug\net7.0\returnobject.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\Week2\2day1\returnobject\obj\Debug\net7.0\returnobject.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\Week2\2day1\returnobject\obj\Debug\net7.0\returnobject.dll
+C:\c#masterrace\bootcamp\Week2\2day1\returnobject\obj\Debug\net7.0\refint\returnobject.dll
+C:\c#masterrace\bootcamp\Week2\2day1\returnobject\obj\Debug\net7.0\returnobject.pdb
+C:\c#masterrace\bootcamp\Week2\2day1\returnobject\obj\Debug\net7.0\returnobject.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\Week2\2day1\returnobject\obj\Debug\net7.0\ref\returnobject.dll
