@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "izpaQPo1ZRiUs5f4XB+12sdR5drucDZlZTvgeCLcAiYvjlpazfz7lkrfPA+mOyd3B51yB3D2V3/mHaZgscq4gw==",
+  "dgSpecHash": "mklBxyt/Om6AV95kb0lDXpVt74A2xYveZpeQ75oRAIATq0zxyVR75yWLwys85UQTe11OT34afEqyzEn/3kSbbg==",
   "success": true,
-  "projectFilePath": "C:\\c#masterrace\\bootcamp\\Week2\\2day1\\returnobject\\returnobject.csproj",
+  "projectFilePath": "c:\\bootcamp\\bootcamp\\Week2\\2day1\\returnobject\\returnobject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

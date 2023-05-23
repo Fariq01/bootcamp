@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\bootcamp\\bootcamp\\Week1\\day5\\Interface\\Interface.csproj",
-      "projectName": "Interface",
-      "projectPath": "c:\\bootcamp\\bootcamp\\Week1\\day5\\Interface\\Interface.csproj",
+      "projectUniqueName": "C:\\bootcamp\\bootcamp\\Week1\\day5\\generics\\generics.csproj",
+      "projectName": "generics",
+      "projectPath": "C:\\bootcamp\\bootcamp\\Week1\\day5\\generics\\generics.csproj",
       "packagesPath": "C:\\Users\\7ix\\.nuget\\packages\\",
-      "outputPath": "c:\\bootcamp\\bootcamp\\Week1\\day5\\Interface\\obj\\",
+      "outputPath": "C:\\bootcamp\\bootcamp\\Week1\\day5\\generics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\7ix\\AppData\\Roaming\\NuGet\\NuGet.Config"

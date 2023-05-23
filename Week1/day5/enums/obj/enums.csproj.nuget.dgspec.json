@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\c#masterrace\\bootcamp\\Week1\\day5\\enums\\enums.csproj": {}
+    "c:\\bootcamp\\bootcamp\\Week1\\day5\\enums\\enums.csproj": {}
   },
   "projects": {
-    "c:\\c#masterrace\\bootcamp\\Week1\\day5\\enums\\enums.csproj": {
+    "c:\\bootcamp\\bootcamp\\Week1\\day5\\enums\\enums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\c#masterrace\\bootcamp\\Week1\\day5\\enums\\enums.csproj",
+        "projectUniqueName": "c:\\bootcamp\\bootcamp\\Week1\\day5\\enums\\enums.csproj",
         "projectName": "enums",
-        "projectPath": "c:\\c#masterrace\\bootcamp\\Week1\\day5\\enums\\enums.csproj",
-        "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "c:\\c#masterrace\\bootcamp\\Week1\\day5\\enums\\obj\\",
+        "projectPath": "c:\\bootcamp\\bootcamp\\Week1\\day5\\enums\\enums.csproj",
+        "packagesPath": "C:\\Users\\7ix\\.nuget\\packages\\",
+        "outputPath": "c:\\bootcamp\\bootcamp\\Week1\\day5\\enums\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\7ix\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -18,7 +18,7 @@ class car
 	public body getBody()
 	
 	{
-		return totalBody.bodySize;
+		return totalBody;
 	}
 	
 	public void displayCar()

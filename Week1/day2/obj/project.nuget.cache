@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dCk27SIi7jbjUV0R/+xwM6ayF55AVYWuJFBevj0AKCZi8D435r9uvZqlNSoIuMvBZrleZrlK42pG3Rg8IzugGQ==",
+  "dgSpecHash": "k5TeUYl3eP3My5RQK+g5Vft2UsdOAglBOw1sjQzI32QC6SF3MArEeJpK/036GOCVIHNGLrMZ6Ez7dEZbyc8GvA==",
   "success": true,
-  "projectFilePath": "c:\\c#masterrace\\bootcamp\\Week1\\day2\\c#masterrace.csproj",
+  "projectFilePath": "c:\\bootcamp\\bootcamp\\Week1\\day2\\c#masterrace.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
