@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\dynamicvsobject\object\bin\Debug\net7.0\object.exe
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\dynamicvsobject\object\bin\Debug\net7.0\object.deps.json
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\dynamicvsobject\object\bin\Debug\net7.0\object.runtimeconfig.json
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\dynamicvsobject\object\bin\Debug\net7.0\object.dll
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\dynamicvsobject\object\bin\Debug\net7.0\object.pdb
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\dynamicvsobject\object\obj\Debug\net7.0\object.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\dynamicvsobject\object\obj\Debug\net7.0\object.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\dynamicvsobject\object\obj\Debug\net7.0\object.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\dynamicvsobject\object\obj\Debug\net7.0\object.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\dynamicvsobject\object\obj\Debug\net7.0\object.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\dynamicvsobject\object\obj\Debug\net7.0\object.dll
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\dynamicvsobject\object\obj\Debug\net7.0\refint\object.dll
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\dynamicvsobject\object\obj\Debug\net7.0\object.pdb
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\dynamicvsobject\object\obj\Debug\net7.0\object.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\dynamicvsobject\object\obj\Debug\net7.0\ref\object.dll

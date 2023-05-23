@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\structvsclass\bin\Debug\net7.0\structvsclass.exe
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\structvsclass\bin\Debug\net7.0\structvsclass.deps.json
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\structvsclass\bin\Debug\net7.0\structvsclass.runtimeconfig.json
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\structvsclass\bin\Debug\net7.0\structvsclass.dll
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\structvsclass\bin\Debug\net7.0\structvsclass.pdb
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\structvsclass\obj\Debug\net7.0\structvsclass.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\structvsclass\obj\Debug\net7.0\structvsclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\structvsclass\obj\Debug\net7.0\structvsclass.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\structvsclass\obj\Debug\net7.0\structvsclass.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\structvsclass\obj\Debug\net7.0\structvsclass.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\structvsclass\obj\Debug\net7.0\structvsclass.dll
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\structvsclass\obj\Debug\net7.0\refint\structvsclass.dll
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\structvsclass\obj\Debug\net7.0\structvsclass.pdb
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\structvsclass\obj\Debug\net7.0\structvsclass.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\structvsclass\obj\Debug\net7.0\ref\structvsclass.dll

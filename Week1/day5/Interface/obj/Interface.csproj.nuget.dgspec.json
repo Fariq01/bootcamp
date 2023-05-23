@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\bootcamp\\bootcamp\\Week1\\day5\\Interface\\Interface.csproj": {}
+    "c:\\c#masterrace\\bootcamp\\bootcamp\\Week1\\day5\\Interface\\Interface.csproj": {}
   },
   "projects": {
-    "c:\\bootcamp\\bootcamp\\Week1\\day5\\Interface\\Interface.csproj": {
+    "c:\\c#masterrace\\bootcamp\\bootcamp\\Week1\\day5\\Interface\\Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\bootcamp\\bootcamp\\Week1\\day5\\Interface\\Interface.csproj",
+        "projectUniqueName": "c:\\c#masterrace\\bootcamp\\bootcamp\\Week1\\day5\\Interface\\Interface.csproj",
         "projectName": "Interface",
-        "projectPath": "c:\\bootcamp\\bootcamp\\Week1\\day5\\Interface\\Interface.csproj",
-        "packagesPath": "C:\\Users\\7ix\\.nuget\\packages\\",
-        "outputPath": "c:\\bootcamp\\bootcamp\\Week1\\day5\\Interface\\obj\\",
+        "projectPath": "c:\\c#masterrace\\bootcamp\\bootcamp\\Week1\\day5\\Interface\\Interface.csproj",
+        "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
+        "outputPath": "c:\\c#masterrace\\bootcamp\\bootcamp\\Week1\\day5\\Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\7ix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

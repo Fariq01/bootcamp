@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\valuevsref\bin\Debug\net7.0\valuevsref.exe
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\valuevsref\bin\Debug\net7.0\valuevsref.deps.json
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\valuevsref\bin\Debug\net7.0\valuevsref.runtimeconfig.json
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\valuevsref\bin\Debug\net7.0\valuevsref.dll
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\valuevsref\bin\Debug\net7.0\valuevsref.pdb
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\valuevsref\obj\Debug\net7.0\valuevsref.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\valuevsref\obj\Debug\net7.0\valuevsref.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\valuevsref\obj\Debug\net7.0\valuevsref.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\valuevsref\obj\Debug\net7.0\valuevsref.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\valuevsref\obj\Debug\net7.0\valuevsref.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\valuevsref\obj\Debug\net7.0\valuevsref.dll
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\valuevsref\obj\Debug\net7.0\refint\valuevsref.dll
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\valuevsref\obj\Debug\net7.0\valuevsref.pdb
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\valuevsref\obj\Debug\net7.0\valuevsref.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day2\valuevsref\obj\Debug\net7.0\ref\valuevsref.dll
