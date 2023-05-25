@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = quest101
-build_property.ProjectDir = C:\bootcamp\bootcamp\Week2\quest101\
+build_property.RootNamespace = foobar
+build_property.ProjectDir = C:\bootcamp\bootcamp\Week2\quest101\foobar\

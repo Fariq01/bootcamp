@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\bootcamp\\bootcamp\\Week2\\quest101\\quest101.csproj": {}
+    "C:\\bootcamp\\bootcamp\\Week2\\quest101\\foobar\\foobar.csproj": {}
   },
   "projects": {
-    "C:\\bootcamp\\bootcamp\\Week2\\quest101\\quest101.csproj": {
+    "C:\\bootcamp\\bootcamp\\Week2\\quest101\\foobar\\foobar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\bootcamp\\bootcamp\\Week2\\quest101\\quest101.csproj",
-        "projectName": "quest101",
-        "projectPath": "C:\\bootcamp\\bootcamp\\Week2\\quest101\\quest101.csproj",
+        "projectUniqueName": "C:\\bootcamp\\bootcamp\\Week2\\quest101\\foobar\\foobar.csproj",
+        "projectName": "foobar",
+        "projectPath": "C:\\bootcamp\\bootcamp\\Week2\\quest101\\foobar\\foobar.csproj",
         "packagesPath": "C:\\Users\\7ix\\.nuget\\packages\\",
-        "outputPath": "C:\\bootcamp\\bootcamp\\Week2\\quest101\\obj\\",
+        "outputPath": "C:\\bootcamp\\bootcamp\\Week2\\quest101\\foobar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\7ix\\AppData\\Roaming\\NuGet\\NuGet.Config"
