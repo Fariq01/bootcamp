@@ -23,11 +23,16 @@ namespace dictiClass;
                 {
                     hasil += kvp.Value;
                 }
-                else if(string.IsNullOrEmpty(hasil))
-                     {
-                        hasil = angka.ToString();
-                     }
+              
+            
             }
+
+              
+            if(string.IsNullOrEmpty(hasil))
+            {
+                hasil = angka.ToString();
+            }
+
 
             return hasil;
         }
