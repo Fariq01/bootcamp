@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\exceptionHandling\obj\Debug\net7.0\exceptionHandling.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\exceptionHandling\obj\Debug\net7.0\exceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\exceptionHandling\obj\Debug\net7.0\exceptionHandling.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\exceptionHandling\obj\Debug\net7.0\exceptionHandling.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\exceptionHandling\obj\Debug\net7.0\exceptionHandling.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\exceptionHandling\bin\Debug\net7.0\exceptionHandling.exe
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\exceptionHandling\bin\Debug\net7.0\exceptionHandling.deps.json
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\exceptionHandling\bin\Debug\net7.0\exceptionHandling.runtimeconfig.json
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\exceptionHandling\bin\Debug\net7.0\exceptionHandling.dll
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\exceptionHandling\bin\Debug\net7.0\exceptionHandling.pdb
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\exceptionHandling\obj\Debug\net7.0\exceptionHandling.dll
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\exceptionHandling\obj\Debug\net7.0\refint\exceptionHandling.dll
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\exceptionHandling\obj\Debug\net7.0\exceptionHandling.pdb
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\exceptionHandling\obj\Debug\net7.0\exceptionHandling.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\exceptionHandling\obj\Debug\net7.0\ref\exceptionHandling.dll

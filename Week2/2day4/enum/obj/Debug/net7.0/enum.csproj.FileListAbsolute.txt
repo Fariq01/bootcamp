@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\enum\bin\Debug\net7.0\enum.exe
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\enum\bin\Debug\net7.0\enum.deps.json
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\enum\bin\Debug\net7.0\enum.runtimeconfig.json
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\enum\bin\Debug\net7.0\enum.dll
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\enum\bin\Debug\net7.0\enum.pdb
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\enum\obj\Debug\net7.0\enum.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\enum\obj\Debug\net7.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\enum\obj\Debug\net7.0\enum.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\enum\obj\Debug\net7.0\enum.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\enum\obj\Debug\net7.0\enum.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\enum\obj\Debug\net7.0\enum.dll
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\enum\obj\Debug\net7.0\refint\enum.dll
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\enum\obj\Debug\net7.0\enum.pdb
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\enum\obj\Debug\net7.0\enum.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\enum\obj\Debug\net7.0\ref\enum.dll

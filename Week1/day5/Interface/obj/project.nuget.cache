@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BU2chHaOYXFmxSauM1UsGNYDpRKT8nc/zWI9g4+h22nhk0OXFQo4/0F+gAT0oZH36xRBMAbQy8Rx56BqKcrPGQ==",
+  "dgSpecHash": "TkzhUnQtThPczCPPBqVQe6v64HFOevcucM2Lz8TENlFMt25E3/SQPXBpYELIIHI5QKlyYLgusMa/YnlcmxxIGA==",
   "success": true,
-  "projectFilePath": "c:\\bootcamp\\bootcamp\\Week1\\day5\\Interface\\Interface.csproj",
+  "projectFilePath": "c:\\c#masterrace\\bootcamp\\bootcamp\\Week1\\day5\\Interface\\Interface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

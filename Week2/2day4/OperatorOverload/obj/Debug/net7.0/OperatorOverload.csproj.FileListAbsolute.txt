@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\OperatorOverload\obj\Debug\net7.0\OperatorOverload.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\OperatorOverload\obj\Debug\net7.0\OperatorOverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\OperatorOverload\obj\Debug\net7.0\OperatorOverload.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\OperatorOverload\obj\Debug\net7.0\OperatorOverload.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\OperatorOverload\obj\Debug\net7.0\OperatorOverload.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\OperatorOverload\bin\Debug\net7.0\OperatorOverload.exe
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\OperatorOverload\bin\Debug\net7.0\OperatorOverload.deps.json
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\OperatorOverload\bin\Debug\net7.0\OperatorOverload.runtimeconfig.json
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\OperatorOverload\bin\Debug\net7.0\OperatorOverload.dll
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\OperatorOverload\bin\Debug\net7.0\OperatorOverload.pdb
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\OperatorOverload\obj\Debug\net7.0\OperatorOverload.dll
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\OperatorOverload\obj\Debug\net7.0\refint\OperatorOverload.dll
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\OperatorOverload\obj\Debug\net7.0\OperatorOverload.pdb
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\OperatorOverload\obj\Debug\net7.0\OperatorOverload.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\bootcamp\Week2\2day4\OperatorOverload\obj\Debug\net7.0\ref\OperatorOverload.dll
