@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\c#masterrace\\bootcamp\\bootcamp\\Week2\\2day1\\returnobject\\returnobject.csproj": {}
+    "c:\\c#masterrace\\bootcamp\\Week2\\2day1\\returnobject\\returnobject.csproj": {}
   },
   "projects": {
-    "c:\\c#masterrace\\bootcamp\\bootcamp\\Week2\\2day1\\returnobject\\returnobject.csproj": {
+    "c:\\c#masterrace\\bootcamp\\Week2\\2day1\\returnobject\\returnobject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\c#masterrace\\bootcamp\\bootcamp\\Week2\\2day1\\returnobject\\returnobject.csproj",
+        "projectUniqueName": "c:\\c#masterrace\\bootcamp\\Week2\\2day1\\returnobject\\returnobject.csproj",
         "projectName": "returnobject",
-        "projectPath": "c:\\c#masterrace\\bootcamp\\bootcamp\\Week2\\2day1\\returnobject\\returnobject.csproj",
+        "projectPath": "c:\\c#masterrace\\bootcamp\\Week2\\2day1\\returnobject\\returnobject.csproj",
         "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "c:\\c#masterrace\\bootcamp\\bootcamp\\Week2\\2day1\\returnobject\\obj\\",
+        "outputPath": "c:\\c#masterrace\\bootcamp\\Week2\\2day1\\returnobject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"

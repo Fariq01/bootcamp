@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\c#masterrace\\bootcamp\\bootcamp\\Week1\\day5\\enums\\enums.csproj": {}
+    "c:\\c#masterrace\\bootcamp\\Week1\\day5\\enums\\enums.csproj": {}
   },
   "projects": {
-    "c:\\c#masterrace\\bootcamp\\bootcamp\\Week1\\day5\\enums\\enums.csproj": {
+    "c:\\c#masterrace\\bootcamp\\Week1\\day5\\enums\\enums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\c#masterrace\\bootcamp\\bootcamp\\Week1\\day5\\enums\\enums.csproj",
+        "projectUniqueName": "c:\\c#masterrace\\bootcamp\\Week1\\day5\\enums\\enums.csproj",
         "projectName": "enums",
-        "projectPath": "c:\\c#masterrace\\bootcamp\\bootcamp\\Week1\\day5\\enums\\enums.csproj",
+        "projectPath": "c:\\c#masterrace\\bootcamp\\Week1\\day5\\enums\\enums.csproj",
         "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "c:\\c#masterrace\\bootcamp\\bootcamp\\Week1\\day5\\enums\\obj\\",
+        "outputPath": "c:\\c#masterrace\\bootcamp\\Week1\\day5\\enums\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\c#masterrace\\bootcamp\\bootcamp\\Week1\\day3\\day3.csproj",
+      "projectUniqueName": "c:\\c#masterrace\\bootcamp\\Week1\\day3\\day3.csproj",
       "projectName": "day3",
-      "projectPath": "c:\\c#masterrace\\bootcamp\\bootcamp\\Week1\\day3\\day3.csproj",
+      "projectPath": "c:\\c#masterrace\\bootcamp\\Week1\\day3\\day3.csproj",
       "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-      "outputPath": "c:\\c#masterrace\\bootcamp\\bootcamp\\Week1\\day3\\obj\\",
+      "outputPath": "c:\\c#masterrace\\bootcamp\\Week1\\day3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"

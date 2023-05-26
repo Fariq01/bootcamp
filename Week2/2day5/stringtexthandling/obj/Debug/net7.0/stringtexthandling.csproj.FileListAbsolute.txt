@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\Week2\2day5\stringtexthandling\bin\Debug\net7.0\stringtexthandling.exe
+C:\c#masterrace\bootcamp\Week2\2day5\stringtexthandling\bin\Debug\net7.0\stringtexthandling.deps.json
+C:\c#masterrace\bootcamp\Week2\2day5\stringtexthandling\bin\Debug\net7.0\stringtexthandling.runtimeconfig.json
+C:\c#masterrace\bootcamp\Week2\2day5\stringtexthandling\bin\Debug\net7.0\stringtexthandling.dll
+C:\c#masterrace\bootcamp\Week2\2day5\stringtexthandling\bin\Debug\net7.0\stringtexthandling.pdb
+C:\c#masterrace\bootcamp\Week2\2day5\stringtexthandling\obj\Debug\net7.0\stringtexthandling.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\Week2\2day5\stringtexthandling\obj\Debug\net7.0\stringtexthandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\Week2\2day5\stringtexthandling\obj\Debug\net7.0\stringtexthandling.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\Week2\2day5\stringtexthandling\obj\Debug\net7.0\stringtexthandling.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\Week2\2day5\stringtexthandling\obj\Debug\net7.0\stringtexthandling.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\Week2\2day5\stringtexthandling\obj\Debug\net7.0\stringtexthandling.dll
+C:\c#masterrace\bootcamp\Week2\2day5\stringtexthandling\obj\Debug\net7.0\refint\stringtexthandling.dll
+C:\c#masterrace\bootcamp\Week2\2day5\stringtexthandling\obj\Debug\net7.0\stringtexthandling.pdb
+C:\c#masterrace\bootcamp\Week2\2day5\stringtexthandling\obj\Debug\net7.0\stringtexthandling.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\Week2\2day5\stringtexthandling\obj\Debug\net7.0\ref\stringtexthandling.dll
