@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aNeyix03ONBPstAM4cx83EcfeJrp1OcQBMKU9i1MWCcbPEwvVfmZ2FLMOhf7j5bmQgN85OR4ZqXtjrNC7DDaag==",
+  "dgSpecHash": "oujW6/fgcA1K/IwF8dLk8sn9Qq5LTr0OMhLAc9rh+VI2L9aNB6PP8CcfonNUj+lQh0hpRxpWZguNwstqHlAHnQ==",
   "success": true,
-  "projectFilePath": "c:\\c#masterrace\\bootcamp\\Week2\\2day1\\tuple\\tuple.csproj",
+  "projectFilePath": "c:\\bootcamp\\bootcamp\\Week2\\2day1\\tuple\\tuple.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

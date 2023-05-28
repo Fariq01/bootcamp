@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-namespace dictiClass;
+namespace ver0Class;
 
-    public class dictionaryClass
+    public class ver0
     {
         Dictionary<int, string> kamus = new Dictionary<int, string>
         {
@@ -10,36 +10,22 @@ namespace dictiClass;
             {5,  "bar"},
             {7,  "soy"},
         };
-    
 
         public string DictionaryMethod(int angka, Dictionary<int, string> kamus)
         {
+
+            string hasil = "";
 
             foreach (var kvp in kamus)
             {
                 if(angka % kvp.Key == 0)
                 {
-
-                   return angka + " is in the dictionary, " + kvp.Value + " ";
-
-                }
-            }
-
-            return angka + " is not in the dictionary";
-        }
-
-        public string DictionaryMethod(Dictionary<int, string> kamus, int angka)
-        {
-            string hasil = "";
-
-            foreach(var kvp in kamus)
-            {
-                if(angka % kvp.Key == 0)
-                {
                     hasil += kvp.Value;
                 }
+              
             }
 
+              
             if(string.IsNullOrEmpty(hasil))
             {
                 hasil = angka.ToString();
@@ -49,41 +35,56 @@ namespace dictiClass;
         }
 
 
+
         public string checkSingleNumber(int angka)
         {
-            string hasil = DictionaryMethod(angka, kamus);
+       
+            string output = "";
+            string hasil = "";
+
+            foreach (var kvp in kamus)
+            {
+                if(angka % kvp.Key == 0)
+                {
+                    hasil = kvp.Value;
+                    output = angka + " is in the dictionary, " + hasil;
+                }
+               
+            }
+
+            if(hasil == "")
+            {
+                hasil = angka + " is not in the dictionary";
+                Console.Write(hasil);
+            }
 
             return hasil;
+
         }
 
         public string checkSMultipleNumber(string angka)
         {
+            string hasil = "";
             string[] angkaArr = angka.Split(new char[] {' ', ','});
           
-            string output = "";
 
             foreach(string i in angkaArr)
             {
-                int angkaInt = Convert.ToInt32(i);
-                string hasil = DictionaryMethod(angkaInt, kamus);
-                    
-                if(hasil.Contains("is in the dictionary"))
-                {
-                    output += hasil;
-
-                }else
-                {
-                    output += hasil;
-                }  
-
-                if(angkaInt < angkaArr.Length)
-                {
-                    output += ", ";
-                }
-
+                    int angkaInt = Convert.ToInt32(i);
+            
+                    foreach(var kvp in kamus)
+                    {
+                        if(angkaInt % kvp.Key == 0)
+                        {
+                            hasil += angkaInt + " is in the dictionary, " + kvp.Value;
+                   
+                        }
+                    }
             }
 
-            return output;
+            // Console.Write(hasil);
+
+            return hasil;
 
         }
 
@@ -93,7 +94,7 @@ namespace dictiClass;
             for(int i = 1; i <= angka; i++)
             {
 
-                hasil += DictionaryMethod(kamus, i);
+                hasil += DictionaryMethod(i, kamus);
 
                 if(i < angka)
                 {
