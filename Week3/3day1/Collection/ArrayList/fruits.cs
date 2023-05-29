@@ -5,6 +5,7 @@ namespace ArrListC;
 
 public class Fruits
 {
+	//gk jadi pake array list karena hanya menggunakan 1 tipe data, string
 	private List<string> _fruitsList = new();
 
 	public bool AddFruits(string input)
@@ -13,8 +14,7 @@ public class Fruits
 		{
 			_fruitsList.Add(input);
 			return true;
-		}
-		else 
+		}else 
 		{
 			return false;
 		}
@@ -23,43 +23,40 @@ public class Fruits
 	public bool DeleteFruits(string input)
 	{
 		if(_fruitsList.Contains(input))
-		
 		{
 			_fruitsList.Remove(input);
 			return true;
 		}else
 		
 		{
-			
 			return false;
 		}
 		
-		// Console.WriteLine(input + " has been removed");
 	}
 
-	// public void updateFruits()
+	public bool UpdateFruits(string oldValue, string newValue)
 
-	// {
-	// 	_fruitsList.Re
-	// }
+	{
+		for(int i = 0; i <= _fruitsList.Count(); i++)
+		{
+			if(_fruitsList[i] == oldValue)
+			{
+				_fruitsList[i] = newValue;
+				return true;
+			// }else
+			// {
+				
+			}
+		}
+
+		return false;
+	}
 
 	public List<string> GetFruits()
 	{
-		/*string output = "";
 
-		foreach (var i in fruits1)
-		{
-			// string output = "";
-			// int input = Convert.ToInt32(output);
-
-			// if(input < fruits.Count)
-			// {
-			// 	output += ", ";
-			// }
-
-			Console.WriteLine(i + ", ");
-		}*/
 		return _fruitsList;
+
 	}
 
 }

@@ -25,7 +25,7 @@ dictionaryClass dict1 = new dictionaryClass();
 
 // dict1.updateDictionary(inputKey, inputvalue);
 
-dict1.checkAllDicionary();
+dict1.checkAllDictionary();
 
 
 

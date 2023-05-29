@@ -16,14 +16,25 @@ class Program
         {
             Console.Write("Masukan buah : ");
             string input = Console.ReadLine();
-            fruits1.addFruits(input);
+            fruits1.AddFruits(input);
         }
+
+        Console.Write("Update Buah : ");
+        string oldFruit = Console.ReadLine();
+        string newFruit = Console.ReadLine();
+        fruits1.UpdateFruits(oldFruit, newFruit);
 
 
         Console.Write("Masukan buah yang akan dibuang : ");
         string delete = Console.ReadLine();
-        fruits1.deleteFruits(delete);
-        fruits1.show();
+        fruits1.DeleteFruits(delete);
+
+        Console.WriteLine("List Buah : ");
+        List<string> listAllFruits = fruits1.GetFruits();
+        foreach(string i in listAllFruits )
+        {
+            Console.WriteLine(i);
+        }
     }
 }
 

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c#masterrace\\bootcamp\\Week3\\3day1\\Collection\\ArrayList\\Collection.csproj": {}
+    "C:\\bootcamp\\bootcamp\\Week3\\3day1\\Collection\\ArrayList\\Collection.csproj": {}
   },
   "projects": {
-    "C:\\c#masterrace\\bootcamp\\Week3\\3day1\\Collection\\ArrayList\\Collection.csproj": {
+    "C:\\bootcamp\\bootcamp\\Week3\\3day1\\Collection\\ArrayList\\Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c#masterrace\\bootcamp\\Week3\\3day1\\Collection\\ArrayList\\Collection.csproj",
+        "projectUniqueName": "C:\\bootcamp\\bootcamp\\Week3\\3day1\\Collection\\ArrayList\\Collection.csproj",
         "projectName": "Collection",
-        "projectPath": "C:\\c#masterrace\\bootcamp\\Week3\\3day1\\Collection\\ArrayList\\Collection.csproj",
-        "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "C:\\c#masterrace\\bootcamp\\Week3\\3day1\\Collection\\ArrayList\\obj\\",
+        "projectPath": "C:\\bootcamp\\bootcamp\\Week3\\3day1\\Collection\\ArrayList\\Collection.csproj",
+        "packagesPath": "C:\\Users\\7ix\\.nuget\\packages\\",
+        "outputPath": "C:\\bootcamp\\bootcamp\\Week3\\3day1\\Collection\\ArrayList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\7ix\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

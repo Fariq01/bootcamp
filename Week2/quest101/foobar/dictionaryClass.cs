@@ -51,7 +51,7 @@ namespace dictiClass;
             
         }
 
-        public void checkAllDicionary()
+        public void checkAllDictionary()
         {
 
             string listDicti = "";
@@ -60,14 +60,8 @@ namespace dictiClass;
             {
                 listDicti += "key : " + kvp.Key + " value : " + kvp.Value + ", ";
               
-             
-                // if( < kamus.Count)
-                // {
-                //     listDicti += ", ";
-                // }
-                
             }
-            // Console.Write(kamus.Count);
+           
             Console.WriteLine(listDicti);
 
         }
