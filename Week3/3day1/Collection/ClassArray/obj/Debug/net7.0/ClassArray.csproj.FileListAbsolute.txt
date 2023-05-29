@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\Week3\3day1\Collection\ClassArray\bin\Debug\net7.0\ClassArray.exe
+C:\c#masterrace\bootcamp\Week3\3day1\Collection\ClassArray\bin\Debug\net7.0\ClassArray.deps.json
+C:\c#masterrace\bootcamp\Week3\3day1\Collection\ClassArray\bin\Debug\net7.0\ClassArray.runtimeconfig.json
+C:\c#masterrace\bootcamp\Week3\3day1\Collection\ClassArray\bin\Debug\net7.0\ClassArray.dll
+C:\c#masterrace\bootcamp\Week3\3day1\Collection\ClassArray\bin\Debug\net7.0\ClassArray.pdb
+C:\c#masterrace\bootcamp\Week3\3day1\Collection\ClassArray\obj\Debug\net7.0\ClassArray.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\Week3\3day1\Collection\ClassArray\obj\Debug\net7.0\ClassArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\Week3\3day1\Collection\ClassArray\obj\Debug\net7.0\ClassArray.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\Week3\3day1\Collection\ClassArray\obj\Debug\net7.0\ClassArray.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\Week3\3day1\Collection\ClassArray\obj\Debug\net7.0\ClassArray.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\Week3\3day1\Collection\ClassArray\obj\Debug\net7.0\ClassArray.dll
+C:\c#masterrace\bootcamp\Week3\3day1\Collection\ClassArray\obj\Debug\net7.0\refint\ClassArray.dll
+C:\c#masterrace\bootcamp\Week3\3day1\Collection\ClassArray\obj\Debug\net7.0\ClassArray.pdb
+C:\c#masterrace\bootcamp\Week3\3day1\Collection\ClassArray\obj\Debug\net7.0\ClassArray.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\Week3\3day1\Collection\ClassArray\obj\Debug\net7.0\ref\ClassArray.dll
