@@ -13,7 +13,19 @@ dictionaryClass dict1 = new dictionaryClass();
 // Console.WriteLine(hasil);
 
 
-string angka = Console.ReadLine();
-string checkSMultiple =  dict1.checkSMultipleNumber(angka);
+//// check multiple number
+// string angka = Console.ReadLine();
+// string checkSMultiple =  dict1.checkSMultipleNumber(angka);
 
-Console.Write(checkSMultiple);
+// Console.Write(checkSMultiple);
+
+
+// int inputKey = Convert.ToInt32(Console.ReadLine());
+// string inputvalue = Console.ReadLine();
+
+// dict1.updateDictionary(inputKey, inputvalue);
+
+dict1.checkAllDicionary();
+
+
+

@@ -4,12 +4,73 @@ namespace dictiClass;
 
     public class dictionaryClass
     {
-        Dictionary<int, string> kamus = new Dictionary<int, string>
+        public Dictionary<int, string> kamus = new Dictionary<int, string>
         {
             {3,  "foo"},
             {5,  "bar"},
             {7,  "soy"},
         };
+
+        public void addDictionary(int angka, string value)
+        {
+            kamus.Add(angka, value);
+        }
+
+        public void deleteDictionary(int angka)
+        {
+            if(kamus.ContainsKey(angka))
+            {
+               kamus.Remove(angka);
+               Console.WriteLine(kamus[angka] + " has been removed ");
+            
+            }else
+            {
+                Console.WriteLine(angka + " is not in the dictioanry ");
+            }
+       
+        }
+
+        public void updateDictionary(int angka, string value)
+        {
+
+            string earlyValue = "";
+            string lastValue = "";
+
+            if(kamus.ContainsKey(angka))
+            {
+                    earlyValue = kamus[angka];
+
+                    kamus[angka] = value;
+                    lastValue = kamus[angka];
+
+                    Console.WriteLine(earlyValue + " from " + angka + " has been changed to " + lastValue);
+            }else
+            {
+                Console.WriteLine(angka + " is not in the dictionary");
+            }
+            
+        }
+
+        public void checkAllDicionary()
+        {
+
+            string listDicti = "";
+
+            foreach(var kvp in kamus)
+            {
+                listDicti += "key : " + kvp.Key + " value : " + kvp.Value + ", ";
+              
+             
+                // if( < kamus.Count)
+                // {
+                //     listDicti += ", ";
+                // }
+                
+            }
+            // Console.Write(kamus.Count);
+            Console.WriteLine(listDicti);
+
+        }
     
 
         public string DictionaryMethod(int angka, Dictionary<int, string> kamus)
@@ -71,7 +132,8 @@ namespace dictiClass;
                 {
                     output += hasil;
 
-                }else
+                }
+                else
                 {
                     output += hasil;
                 }  
