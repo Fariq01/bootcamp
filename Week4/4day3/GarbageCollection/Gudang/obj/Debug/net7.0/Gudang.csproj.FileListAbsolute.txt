@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Gudang\obj\Debug\net7.0\Gudang.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Gudang\obj\Debug\net7.0\Gudang.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Gudang\obj\Debug\net7.0\Gudang.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Gudang\obj\Debug\net7.0\Gudang.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Gudang\obj\Debug\net7.0\Gudang.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Gudang\bin\Debug\net7.0\Gudang.exe
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Gudang\bin\Debug\net7.0\Gudang.deps.json
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Gudang\bin\Debug\net7.0\Gudang.runtimeconfig.json
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Gudang\bin\Debug\net7.0\Gudang.dll
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Gudang\bin\Debug\net7.0\Gudang.pdb
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Gudang\obj\Debug\net7.0\Gudang.dll
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Gudang\obj\Debug\net7.0\refint\Gudang.dll
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Gudang\obj\Debug\net7.0\Gudang.pdb
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Gudang\obj\Debug\net7.0\Gudang.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Gudang\obj\Debug\net7.0\ref\Gudang.dll

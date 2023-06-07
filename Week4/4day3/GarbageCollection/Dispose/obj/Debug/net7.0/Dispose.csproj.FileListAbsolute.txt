@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Dispose\bin\Debug\net7.0\Dispose.exe
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Dispose\bin\Debug\net7.0\Dispose.deps.json
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Dispose\bin\Debug\net7.0\Dispose.runtimeconfig.json
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Dispose\bin\Debug\net7.0\Dispose.dll
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Dispose\bin\Debug\net7.0\Dispose.pdb
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Dispose\obj\Debug\net7.0\Dispose.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Dispose\obj\Debug\net7.0\Dispose.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Dispose\obj\Debug\net7.0\Dispose.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Dispose\obj\Debug\net7.0\Dispose.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Dispose\obj\Debug\net7.0\Dispose.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Dispose\obj\Debug\net7.0\Dispose.dll
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Dispose\obj\Debug\net7.0\refint\Dispose.dll
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Dispose\obj\Debug\net7.0\Dispose.pdb
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Dispose\obj\Debug\net7.0\Dispose.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Dispose\obj\Debug\net7.0\ref\Dispose.dll

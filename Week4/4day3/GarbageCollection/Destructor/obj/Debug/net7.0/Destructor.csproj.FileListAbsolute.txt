@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Destructor\bin\Debug\net7.0\Destructor.exe
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Destructor\bin\Debug\net7.0\Destructor.deps.json
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Destructor\bin\Debug\net7.0\Destructor.runtimeconfig.json
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Destructor\bin\Debug\net7.0\Destructor.dll
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Destructor\bin\Debug\net7.0\Destructor.pdb
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Destructor\obj\Debug\net7.0\Destructor.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Destructor\obj\Debug\net7.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Destructor\obj\Debug\net7.0\Destructor.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Destructor\obj\Debug\net7.0\Destructor.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Destructor\obj\Debug\net7.0\Destructor.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Destructor\obj\Debug\net7.0\Destructor.dll
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Destructor\obj\Debug\net7.0\refint\Destructor.dll
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Destructor\obj\Debug\net7.0\Destructor.pdb
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Destructor\obj\Debug\net7.0\Destructor.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\Destructor\obj\Debug\net7.0\ref\Destructor.dll

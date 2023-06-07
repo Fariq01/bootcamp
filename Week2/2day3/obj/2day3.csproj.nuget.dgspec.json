@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c#masterrace\\bootcamp\\bootcamp\\Week2\\2day3\\2day3.csproj": {}
+    "C:\\c#masterrace\\bootcamp\\Week2\\2day3\\2day3.csproj": {}
   },
   "projects": {
-    "C:\\c#masterrace\\bootcamp\\bootcamp\\Week2\\2day3\\2day3.csproj": {
+    "C:\\c#masterrace\\bootcamp\\Week2\\2day3\\2day3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c#masterrace\\bootcamp\\bootcamp\\Week2\\2day3\\2day3.csproj",
+        "projectUniqueName": "C:\\c#masterrace\\bootcamp\\Week2\\2day3\\2day3.csproj",
         "projectName": "2day3",
-        "projectPath": "C:\\c#masterrace\\bootcamp\\bootcamp\\Week2\\2day3\\2day3.csproj",
+        "projectPath": "C:\\c#masterrace\\bootcamp\\Week2\\2day3\\2day3.csproj",
         "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "C:\\c#masterrace\\bootcamp\\bootcamp\\Week2\\2day3\\obj\\",
+        "outputPath": "C:\\c#masterrace\\bootcamp\\Week2\\2day3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"

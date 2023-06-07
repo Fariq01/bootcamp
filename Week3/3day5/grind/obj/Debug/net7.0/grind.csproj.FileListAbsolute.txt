@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\Week3\3day5\grind\obj\Debug\net7.0\grind.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\Week3\3day5\grind\obj\Debug\net7.0\grind.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\Week3\3day5\grind\obj\Debug\net7.0\grind.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\Week3\3day5\grind\obj\Debug\net7.0\grind.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\Week3\3day5\grind\obj\Debug\net7.0\grind.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\Week3\3day5\grind\bin\Debug\net7.0\grind.exe
+C:\c#masterrace\bootcamp\Week3\3day5\grind\bin\Debug\net7.0\grind.deps.json
+C:\c#masterrace\bootcamp\Week3\3day5\grind\bin\Debug\net7.0\grind.runtimeconfig.json
+C:\c#masterrace\bootcamp\Week3\3day5\grind\bin\Debug\net7.0\grind.dll
+C:\c#masterrace\bootcamp\Week3\3day5\grind\bin\Debug\net7.0\grind.pdb
+C:\c#masterrace\bootcamp\Week3\3day5\grind\obj\Debug\net7.0\grind.dll
+C:\c#masterrace\bootcamp\Week3\3day5\grind\obj\Debug\net7.0\refint\grind.dll
+C:\c#masterrace\bootcamp\Week3\3day5\grind\obj\Debug\net7.0\grind.pdb
+C:\c#masterrace\bootcamp\Week3\3day5\grind\obj\Debug\net7.0\grind.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\Week3\3day5\grind\obj\Debug\net7.0\ref\grind.dll

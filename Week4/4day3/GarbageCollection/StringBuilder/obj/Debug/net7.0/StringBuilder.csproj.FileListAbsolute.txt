@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\StringBuilder\bin\Debug\net7.0\StringBuilder.exe
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\StringBuilder\bin\Debug\net7.0\StringBuilder.deps.json
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\StringBuilder\bin\Debug\net7.0\StringBuilder.runtimeconfig.json
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\StringBuilder\bin\Debug\net7.0\StringBuilder.dll
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\StringBuilder\bin\Debug\net7.0\StringBuilder.pdb
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\StringBuilder\obj\Debug\net7.0\StringBuilder.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\StringBuilder\obj\Debug\net7.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\StringBuilder\obj\Debug\net7.0\StringBuilder.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\StringBuilder\obj\Debug\net7.0\StringBuilder.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\StringBuilder\obj\Debug\net7.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\StringBuilder\obj\Debug\net7.0\StringBuilder.dll
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\StringBuilder\obj\Debug\net7.0\refint\StringBuilder.dll
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\StringBuilder\obj\Debug\net7.0\StringBuilder.pdb
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\StringBuilder\obj\Debug\net7.0\StringBuilder.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\Week4\4day3\GarbageCollection\StringBuilder\obj\Debug\net7.0\ref\StringBuilder.dll

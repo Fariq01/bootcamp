@@ -13,3 +13,11 @@ C:\c#masterrace\bootcamp\bootcamp\Week2\2day3\obj\Debug\net7.0\refint\2day3.dll
 C:\c#masterrace\bootcamp\bootcamp\Week2\2day3\obj\Debug\net7.0\2day3.pdb
 C:\c#masterrace\bootcamp\bootcamp\Week2\2day3\obj\Debug\net7.0\2day3.genruntimeconfig.cache
 C:\c#masterrace\bootcamp\bootcamp\Week2\2day3\obj\Debug\net7.0\ref\2day3.dll
+C:\c#masterrace\bootcamp\Week2\2day3\obj\Debug\net7.0\2day3.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\Week2\2day3\obj\Debug\net7.0\2day3.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\Week2\2day3\obj\Debug\net7.0\2day3.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\Week2\2day3\obj\Debug\net7.0\2day3.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\Week2\2day3\obj\Debug\net7.0\2day3.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\Week2\2day3\obj\Debug\net7.0\2day3.dll
+C:\c#masterrace\bootcamp\Week2\2day3\obj\Debug\net7.0\refint\2day3.dll
+C:\c#masterrace\bootcamp\Week2\2day3\obj\Debug\net7.0\2day3.pdb
