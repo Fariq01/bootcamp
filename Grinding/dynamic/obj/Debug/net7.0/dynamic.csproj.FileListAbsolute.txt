@@ -1,0 +1,15 @@
+C:\bootcamp\bootcamp\Grinding\dynamic\obj\Debug\net7.0\dynamic.csproj.AssemblyReference.cache
+C:\bootcamp\bootcamp\Grinding\dynamic\obj\Debug\net7.0\dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\bootcamp\bootcamp\Grinding\dynamic\obj\Debug\net7.0\dynamic.AssemblyInfoInputs.cache
+C:\bootcamp\bootcamp\Grinding\dynamic\obj\Debug\net7.0\dynamic.AssemblyInfo.cs
+C:\bootcamp\bootcamp\Grinding\dynamic\obj\Debug\net7.0\dynamic.csproj.CoreCompileInputs.cache
+C:\bootcamp\bootcamp\Grinding\dynamic\bin\Debug\net7.0\dynamic.exe
+C:\bootcamp\bootcamp\Grinding\dynamic\bin\Debug\net7.0\dynamic.deps.json
+C:\bootcamp\bootcamp\Grinding\dynamic\bin\Debug\net7.0\dynamic.runtimeconfig.json
+C:\bootcamp\bootcamp\Grinding\dynamic\bin\Debug\net7.0\dynamic.dll
+C:\bootcamp\bootcamp\Grinding\dynamic\bin\Debug\net7.0\dynamic.pdb
+C:\bootcamp\bootcamp\Grinding\dynamic\obj\Debug\net7.0\dynamic.dll
+C:\bootcamp\bootcamp\Grinding\dynamic\obj\Debug\net7.0\refint\dynamic.dll
+C:\bootcamp\bootcamp\Grinding\dynamic\obj\Debug\net7.0\dynamic.pdb
+C:\bootcamp\bootcamp\Grinding\dynamic\obj\Debug\net7.0\dynamic.genruntimeconfig.cache
+C:\bootcamp\bootcamp\Grinding\dynamic\obj\Debug\net7.0\ref\dynamic.dll

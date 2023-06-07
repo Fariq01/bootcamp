@@ -1,0 +1,15 @@
+C:\bootcamp\bootcamp\Grinding\Kalkulator\obj\Debug\net7.0\Kalkulator.csproj.AssemblyReference.cache
+C:\bootcamp\bootcamp\Grinding\Kalkulator\obj\Debug\net7.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\bootcamp\bootcamp\Grinding\Kalkulator\obj\Debug\net7.0\Kalkulator.AssemblyInfoInputs.cache
+C:\bootcamp\bootcamp\Grinding\Kalkulator\obj\Debug\net7.0\Kalkulator.AssemblyInfo.cs
+C:\bootcamp\bootcamp\Grinding\Kalkulator\obj\Debug\net7.0\Kalkulator.csproj.CoreCompileInputs.cache
+C:\bootcamp\bootcamp\Grinding\Kalkulator\bin\Debug\net7.0\Kalkulator.exe
+C:\bootcamp\bootcamp\Grinding\Kalkulator\bin\Debug\net7.0\Kalkulator.deps.json
+C:\bootcamp\bootcamp\Grinding\Kalkulator\bin\Debug\net7.0\Kalkulator.runtimeconfig.json
+C:\bootcamp\bootcamp\Grinding\Kalkulator\bin\Debug\net7.0\Kalkulator.dll
+C:\bootcamp\bootcamp\Grinding\Kalkulator\bin\Debug\net7.0\Kalkulator.pdb
+C:\bootcamp\bootcamp\Grinding\Kalkulator\obj\Debug\net7.0\Kalkulator.dll
+C:\bootcamp\bootcamp\Grinding\Kalkulator\obj\Debug\net7.0\refint\Kalkulator.dll
+C:\bootcamp\bootcamp\Grinding\Kalkulator\obj\Debug\net7.0\Kalkulator.pdb
+C:\bootcamp\bootcamp\Grinding\Kalkulator\obj\Debug\net7.0\Kalkulator.genruntimeconfig.cache
+C:\bootcamp\bootcamp\Grinding\Kalkulator\obj\Debug\net7.0\ref\Kalkulator.dll

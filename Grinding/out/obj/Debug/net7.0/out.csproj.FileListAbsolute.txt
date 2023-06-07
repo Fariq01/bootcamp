@@ -1,0 +1,15 @@
+C:\bootcamp\bootcamp\Grinding\out\obj\Debug\net7.0\out.csproj.AssemblyReference.cache
+C:\bootcamp\bootcamp\Grinding\out\obj\Debug\net7.0\out.GeneratedMSBuildEditorConfig.editorconfig
+C:\bootcamp\bootcamp\Grinding\out\obj\Debug\net7.0\out.AssemblyInfoInputs.cache
+C:\bootcamp\bootcamp\Grinding\out\obj\Debug\net7.0\out.AssemblyInfo.cs
+C:\bootcamp\bootcamp\Grinding\out\obj\Debug\net7.0\out.csproj.CoreCompileInputs.cache
+C:\bootcamp\bootcamp\Grinding\out\bin\Debug\net7.0\out.exe
+C:\bootcamp\bootcamp\Grinding\out\bin\Debug\net7.0\out.deps.json
+C:\bootcamp\bootcamp\Grinding\out\bin\Debug\net7.0\out.runtimeconfig.json
+C:\bootcamp\bootcamp\Grinding\out\bin\Debug\net7.0\out.dll
+C:\bootcamp\bootcamp\Grinding\out\bin\Debug\net7.0\out.pdb
+C:\bootcamp\bootcamp\Grinding\out\obj\Debug\net7.0\out.dll
+C:\bootcamp\bootcamp\Grinding\out\obj\Debug\net7.0\refint\out.dll
+C:\bootcamp\bootcamp\Grinding\out\obj\Debug\net7.0\out.pdb
+C:\bootcamp\bootcamp\Grinding\out\obj\Debug\net7.0\out.genruntimeconfig.cache
+C:\bootcamp\bootcamp\Grinding\out\obj\Debug\net7.0\ref\out.dll
