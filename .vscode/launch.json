@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/satu/bin/Debug/net7.0/c#masterrace.dll",
+            "program": "${workspaceFolder}/Week4/4day4/Debugging/bin/Debug/net7.0/Debugging.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/satu",
+            "cwd": "${workspaceFolder}/Week4/4day4/Debugging",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FNWaP8oIvYZ7YHDm+GIQeINJLAm1DfhgIAGk9sKd/TWt9yQRaZLiNNRRQWqugzJCnJ+klmALXXipOC9QbRdUQw==",
+  "dgSpecHash": "nztdH8/2VdF0tmPxbDQIOIgxrZxIIiQNCjNUC4lOm8m5U5NXcBehsKR+yXYO2/Z+bAUIiJGOqOB4ErxzcltW4g==",
   "success": true,
-  "projectFilePath": "c:\\formulatrix\\bootcamp\\Week2\\2day1\\returnobject\\returnobject.csproj",
+  "projectFilePath": "c:\\c#masterrace\\bootcamp\\Week2\\2day1\\returnobject\\returnobject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

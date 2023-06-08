@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\formulatrix\\bootcamp\\Week1\\day2\\c#masterrace.csproj": {}
+    "c:\\c#masterrace\\bootcamp\\Week1\\day2\\c#masterrace.csproj": {}
   },
   "projects": {
-    "c:\\formulatrix\\bootcamp\\Week1\\day2\\c#masterrace.csproj": {
+    "c:\\c#masterrace\\bootcamp\\Week1\\day2\\c#masterrace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\formulatrix\\bootcamp\\Week1\\day2\\c#masterrace.csproj",
+        "projectUniqueName": "c:\\c#masterrace\\bootcamp\\Week1\\day2\\c#masterrace.csproj",
         "projectName": "c#masterrace",
-        "projectPath": "c:\\formulatrix\\bootcamp\\Week1\\day2\\c#masterrace.csproj",
-        "packagesPath": "C:\\Users\\7ix\\.nuget\\packages\\",
-        "outputPath": "c:\\formulatrix\\bootcamp\\Week1\\day2\\obj\\",
+        "projectPath": "c:\\c#masterrace\\bootcamp\\Week1\\day2\\c#masterrace.csproj",
+        "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
+        "outputPath": "c:\\c#masterrace\\bootcamp\\Week1\\day2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\7ix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

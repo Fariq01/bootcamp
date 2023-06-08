@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cUcEixtSv1Flxb+ZNC+HSV5ZyMsVhVU+ADNEBqUsNyDqYPIVXeDBBN+B01cKUpa/E62t0XIfiJWiS8r/ssjCLA==",
+  "dgSpecHash": "jOCNWDUn5tZ0LpeSZCEXhoetSuKipneyiF5XpQeZHkeibvT975kklLf9EEhZ9bpbPiKxiR+n/T1AoRA779FXzQ==",
   "success": true,
-  "projectFilePath": "c:\\formulatrix\\bootcamp\\Week1\\day4\\Override\\abstract\\abstract.csproj",
+  "projectFilePath": "c:\\c#masterrace\\bootcamp\\Week1\\day4\\Override\\abstract\\abstract.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

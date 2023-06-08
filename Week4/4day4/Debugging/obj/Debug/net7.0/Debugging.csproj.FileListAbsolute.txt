@@ -1,0 +1,15 @@
+c:\c#masterrace\bootcamp\Week4\4day4\Debugging\obj\Debug\net7.0\Debugging.csproj.AssemblyReference.cache
+c:\c#masterrace\bootcamp\Week4\4day4\Debugging\obj\Debug\net7.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+c:\c#masterrace\bootcamp\Week4\4day4\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfoInputs.cache
+c:\c#masterrace\bootcamp\Week4\4day4\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfo.cs
+c:\c#masterrace\bootcamp\Week4\4day4\Debugging\obj\Debug\net7.0\Debugging.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\Week4\4day4\Debugging\bin\Debug\net7.0\Debugging.exe
+C:\c#masterrace\bootcamp\Week4\4day4\Debugging\bin\Debug\net7.0\Debugging.deps.json
+C:\c#masterrace\bootcamp\Week4\4day4\Debugging\bin\Debug\net7.0\Debugging.runtimeconfig.json
+C:\c#masterrace\bootcamp\Week4\4day4\Debugging\bin\Debug\net7.0\Debugging.dll
+C:\c#masterrace\bootcamp\Week4\4day4\Debugging\bin\Debug\net7.0\Debugging.pdb
+C:\c#masterrace\bootcamp\Week4\4day4\Debugging\obj\Debug\net7.0\Debugging.dll
+C:\c#masterrace\bootcamp\Week4\4day4\Debugging\obj\Debug\net7.0\refint\Debugging.dll
+C:\c#masterrace\bootcamp\Week4\4day4\Debugging\obj\Debug\net7.0\Debugging.pdb
+C:\c#masterrace\bootcamp\Week4\4day4\Debugging\obj\Debug\net7.0\Debugging.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\Week4\4day4\Debugging\obj\Debug\net7.0\ref\Debugging.dll

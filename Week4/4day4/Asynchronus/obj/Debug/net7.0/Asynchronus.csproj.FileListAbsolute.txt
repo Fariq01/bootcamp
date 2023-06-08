@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\Week4\4day4\Asynchronus\obj\Debug\net7.0\Asynchronus.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\Week4\4day4\Asynchronus\obj\Debug\net7.0\Asynchronus.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\Week4\4day4\Asynchronus\obj\Debug\net7.0\Asynchronus.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\Week4\4day4\Asynchronus\obj\Debug\net7.0\Asynchronus.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\Week4\4day4\Asynchronus\obj\Debug\net7.0\Asynchronus.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\Week4\4day4\Asynchronus\bin\Debug\net7.0\Asynchronus.exe
+C:\c#masterrace\bootcamp\Week4\4day4\Asynchronus\bin\Debug\net7.0\Asynchronus.deps.json
+C:\c#masterrace\bootcamp\Week4\4day4\Asynchronus\bin\Debug\net7.0\Asynchronus.runtimeconfig.json
+C:\c#masterrace\bootcamp\Week4\4day4\Asynchronus\bin\Debug\net7.0\Asynchronus.dll
+C:\c#masterrace\bootcamp\Week4\4day4\Asynchronus\bin\Debug\net7.0\Asynchronus.pdb
+C:\c#masterrace\bootcamp\Week4\4day4\Asynchronus\obj\Debug\net7.0\Asynchronus.dll
+C:\c#masterrace\bootcamp\Week4\4day4\Asynchronus\obj\Debug\net7.0\refint\Asynchronus.dll
+C:\c#masterrace\bootcamp\Week4\4day4\Asynchronus\obj\Debug\net7.0\Asynchronus.pdb
+C:\c#masterrace\bootcamp\Week4\4day4\Asynchronus\obj\Debug\net7.0\Asynchronus.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\Week4\4day4\Asynchronus\obj\Debug\net7.0\ref\Asynchronus.dll

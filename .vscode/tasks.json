@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/satu/c#masterrace.csproj",
+                "${workspaceFolder}/Week4/4day4/Debugging/Debugging.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/satu/c#masterrace.csproj",
+                "${workspaceFolder}/Week4/4day4/Debugging/Debugging.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/satu/c#masterrace.csproj"
+                "${workspaceFolder}/Week4/4day4/Debugging/Debugging.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
