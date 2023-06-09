@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\Week4\4day5\Concurrency&asynchronus\Thread\bin\Debug\net7.0\Thread.exe
+C:\c#masterrace\bootcamp\Week4\4day5\Concurrency&asynchronus\Thread\bin\Debug\net7.0\Thread.deps.json
+C:\c#masterrace\bootcamp\Week4\4day5\Concurrency&asynchronus\Thread\bin\Debug\net7.0\Thread.runtimeconfig.json
+C:\c#masterrace\bootcamp\Week4\4day5\Concurrency&asynchronus\Thread\bin\Debug\net7.0\Thread.dll
+C:\c#masterrace\bootcamp\Week4\4day5\Concurrency&asynchronus\Thread\bin\Debug\net7.0\Thread.pdb
+C:\c#masterrace\bootcamp\Week4\4day5\Concurrency&asynchronus\Thread\obj\Debug\net7.0\Thread.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\Week4\4day5\Concurrency&asynchronus\Thread\obj\Debug\net7.0\Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\Week4\4day5\Concurrency&asynchronus\Thread\obj\Debug\net7.0\Thread.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\Week4\4day5\Concurrency&asynchronus\Thread\obj\Debug\net7.0\Thread.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\Week4\4day5\Concurrency&asynchronus\Thread\obj\Debug\net7.0\Thread.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\Week4\4day5\Concurrency&asynchronus\Thread\obj\Debug\net7.0\Thread.dll
+C:\c#masterrace\bootcamp\Week4\4day5\Concurrency&asynchronus\Thread\obj\Debug\net7.0\refint\Thread.dll
+C:\c#masterrace\bootcamp\Week4\4day5\Concurrency&asynchronus\Thread\obj\Debug\net7.0\Thread.pdb
+C:\c#masterrace\bootcamp\Week4\4day5\Concurrency&asynchronus\Thread\obj\Debug\net7.0\Thread.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\Week4\4day5\Concurrency&asynchronus\Thread\obj\Debug\net7.0\ref\Thread.dll
