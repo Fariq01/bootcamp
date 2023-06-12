@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gn67zNHh8xP2gO00ueTZIc4/4IDEtbQlxajA4XRo6wLO3arO+J2YSVT0jAa3O9GkLsEm5B4DhozH55A+LIUA8Q==",
+  "dgSpecHash": "trATXd+N21QRt+uMIiwct/ekTKPeeys2/1FTgkVyasTp+D1bfS7y5sjH/F7Ex8UCXst3MNQoUXmmeEzvPUUfAQ==",
   "success": true,
-  "projectFilePath": "c:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\Asynchronus.csproj",
+  "projectFilePath": "C:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\Asynchronus.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

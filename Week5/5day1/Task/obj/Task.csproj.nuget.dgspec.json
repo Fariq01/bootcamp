@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\Asynchronus.csproj": {}
+    "C:\\c#masterrace\\bootcamp\\Week5\\5day1\\Task\\Task.csproj": {}
   },
   "projects": {
-    "C:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\Asynchronus.csproj": {
+    "C:\\c#masterrace\\bootcamp\\Week5\\5day1\\Task\\Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\Asynchronus.csproj",
-        "projectName": "Asynchronus",
-        "projectPath": "C:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\Asynchronus.csproj",
+        "projectUniqueName": "C:\\c#masterrace\\bootcamp\\Week5\\5day1\\Task\\Task.csproj",
+        "projectName": "Task",
+        "projectPath": "C:\\c#masterrace\\bootcamp\\Week5\\5day1\\Task\\Task.csproj",
         "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "C:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\obj\\",
+        "outputPath": "C:\\c#masterrace\\bootcamp\\Week5\\5day1\\Task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"

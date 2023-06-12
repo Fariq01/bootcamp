@@ -24,7 +24,7 @@ static class Program
 		
 		//Gk dipake karena main thread di block, aktif tapi gk jalanin tasknya
 		//mending pake async.await
-		Thread.Sleep(5000);
+		Thread.Sleep(2000);
 		thread2.Start();
 		
 		stopwatch.Stop();
