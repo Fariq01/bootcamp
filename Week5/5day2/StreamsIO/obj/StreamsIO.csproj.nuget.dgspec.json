@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\Asynchronus.csproj": {}
+    "C:\\c#masterrace\\bootcamp\\Week5\\5day2\\StreamsIO\\StreamsIO.csproj": {}
   },
   "projects": {
-    "c:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\Asynchronus.csproj": {
+    "C:\\c#masterrace\\bootcamp\\Week5\\5day2\\StreamsIO\\StreamsIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\Asynchronus.csproj",
-        "projectName": "Asynchronus",
-        "projectPath": "c:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\Asynchronus.csproj",
+        "projectUniqueName": "C:\\c#masterrace\\bootcamp\\Week5\\5day2\\StreamsIO\\StreamsIO.csproj",
+        "projectName": "StreamsIO",
+        "projectPath": "C:\\c#masterrace\\bootcamp\\Week5\\5day2\\StreamsIO\\StreamsIO.csproj",
         "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "c:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\obj\\",
+        "outputPath": "C:\\c#masterrace\\bootcamp\\Week5\\5day2\\StreamsIO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"

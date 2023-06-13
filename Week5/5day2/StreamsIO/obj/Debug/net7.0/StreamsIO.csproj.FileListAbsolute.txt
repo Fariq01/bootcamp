@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\Week5\5day2\StreamsIO\obj\Debug\net7.0\StreamsIO.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\Week5\5day2\StreamsIO\obj\Debug\net7.0\StreamsIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\Week5\5day2\StreamsIO\obj\Debug\net7.0\StreamsIO.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\Week5\5day2\StreamsIO\obj\Debug\net7.0\StreamsIO.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\Week5\5day2\StreamsIO\obj\Debug\net7.0\StreamsIO.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\Week5\5day2\StreamsIO\bin\Debug\net7.0\StreamsIO.exe
+C:\c#masterrace\bootcamp\Week5\5day2\StreamsIO\bin\Debug\net7.0\StreamsIO.deps.json
+C:\c#masterrace\bootcamp\Week5\5day2\StreamsIO\bin\Debug\net7.0\StreamsIO.runtimeconfig.json
+C:\c#masterrace\bootcamp\Week5\5day2\StreamsIO\bin\Debug\net7.0\StreamsIO.dll
+C:\c#masterrace\bootcamp\Week5\5day2\StreamsIO\bin\Debug\net7.0\StreamsIO.pdb
+C:\c#masterrace\bootcamp\Week5\5day2\StreamsIO\obj\Debug\net7.0\StreamsIO.dll
+C:\c#masterrace\bootcamp\Week5\5day2\StreamsIO\obj\Debug\net7.0\refint\StreamsIO.dll
+C:\c#masterrace\bootcamp\Week5\5day2\StreamsIO\obj\Debug\net7.0\StreamsIO.pdb
+C:\c#masterrace\bootcamp\Week5\5day2\StreamsIO\obj\Debug\net7.0\StreamsIO.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\Week5\5day2\StreamsIO\obj\Debug\net7.0\ref\StreamsIO.dll
