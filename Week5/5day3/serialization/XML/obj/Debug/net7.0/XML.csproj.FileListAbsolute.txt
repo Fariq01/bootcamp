@@ -1,0 +1,15 @@
+C:\c#masterrace\bootcamp\Week5\5day3\serialization\XML\obj\Debug\net7.0\XML.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\Week5\5day3\serialization\XML\obj\Debug\net7.0\XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\Week5\5day3\serialization\XML\obj\Debug\net7.0\XML.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\Week5\5day3\serialization\XML\obj\Debug\net7.0\XML.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\Week5\5day3\serialization\XML\obj\Debug\net7.0\XML.csproj.CoreCompileInputs.cache
+C:\c#masterrace\bootcamp\Week5\5day3\serialization\XML\bin\Debug\net7.0\XML.exe
+C:\c#masterrace\bootcamp\Week5\5day3\serialization\XML\bin\Debug\net7.0\XML.deps.json
+C:\c#masterrace\bootcamp\Week5\5day3\serialization\XML\bin\Debug\net7.0\XML.runtimeconfig.json
+C:\c#masterrace\bootcamp\Week5\5day3\serialization\XML\bin\Debug\net7.0\XML.dll
+C:\c#masterrace\bootcamp\Week5\5day3\serialization\XML\bin\Debug\net7.0\XML.pdb
+C:\c#masterrace\bootcamp\Week5\5day3\serialization\XML\obj\Debug\net7.0\XML.dll
+C:\c#masterrace\bootcamp\Week5\5day3\serialization\XML\obj\Debug\net7.0\refint\XML.dll
+C:\c#masterrace\bootcamp\Week5\5day3\serialization\XML\obj\Debug\net7.0\XML.pdb
+C:\c#masterrace\bootcamp\Week5\5day3\serialization\XML\obj\Debug\net7.0\XML.genruntimeconfig.cache
+C:\c#masterrace\bootcamp\Week5\5day3\serialization\XML\obj\Debug\net7.0\ref\XML.dll
