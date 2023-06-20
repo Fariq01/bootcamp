@@ -1,0 +1,5 @@
+C:\c#masterrace\bootcamp\Week6\6day2\principle\SOLID\obj\Debug\net7.0\SOLID.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\Week6\6day2\principle\SOLID\obj\Debug\net7.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\Week6\6day2\principle\SOLID\obj\Debug\net7.0\SOLID.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\Week6\6day2\principle\SOLID\obj\Debug\net7.0\SOLID.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\Week6\6day2\principle\SOLID\obj\Debug\net7.0\SOLID.csproj.CoreCompileInputs.cache
