@@ -1,0 +1,5 @@
+C:\c#masterrace\bootcamp\Week6\6day3\Logger\obj\Debug\net7.0\Logger.csproj.AssemblyReference.cache
+C:\c#masterrace\bootcamp\Week6\6day3\Logger\obj\Debug\net7.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#masterrace\bootcamp\Week6\6day3\Logger\obj\Debug\net7.0\Logger.AssemblyInfoInputs.cache
+C:\c#masterrace\bootcamp\Week6\6day3\Logger\obj\Debug\net7.0\Logger.AssemblyInfo.cs
+C:\c#masterrace\bootcamp\Week6\6day3\Logger\obj\Debug\net7.0\Logger.csproj.CoreCompileInputs.cache
