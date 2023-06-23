@@ -10,11 +10,11 @@
         "projectUniqueName": "c:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\Asynchronus.csproj",
         "projectName": "Asynchronus",
         "projectPath": "c:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\Asynchronus.csproj",
-        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
         "outputPath": "c:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
