@@ -8,7 +8,7 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Batch 2\\.nuget\\packages\\": {}
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "c:\\c#masterrace\\bootcamp\\Week1\\day3\\day3.csproj",
       "projectName": "day3",
       "projectPath": "c:\\c#masterrace\\bootcamp\\Week1\\day3\\day3.csproj",
-      "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
       "outputPath": "c:\\c#masterrace\\bootcamp\\Week1\\day3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

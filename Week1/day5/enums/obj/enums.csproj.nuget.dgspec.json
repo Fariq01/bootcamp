@@ -10,11 +10,11 @@
         "projectUniqueName": "c:\\c#masterrace\\bootcamp\\Week1\\day5\\enums\\enums.csproj",
         "projectName": "enums",
         "projectPath": "c:\\c#masterrace\\bootcamp\\Week1\\day5\\enums\\enums.csproj",
-        "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
         "outputPath": "c:\\c#masterrace\\bootcamp\\Week1\\day5\\enums\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

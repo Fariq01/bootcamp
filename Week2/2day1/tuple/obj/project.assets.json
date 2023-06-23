@@ -8,7 +8,7 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Batch 2\\.nuget\\packages\\": {}
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "c:\\c#masterrace\\bootcamp\\Week2\\2day1\\tuple\\tuple.csproj",
       "projectName": "tuple",
       "projectPath": "c:\\c#masterrace\\bootcamp\\Week2\\2day1\\tuple\\tuple.csproj",
-      "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
       "outputPath": "c:\\c#masterrace\\bootcamp\\Week2\\2day1\\tuple\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

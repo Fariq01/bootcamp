@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Batch 2\\.nuget\\packages\\": {}
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\Asynchronus.csproj",
+      "projectUniqueName": "c:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\Asynchronus.csproj",
       "projectName": "Asynchronus",
-      "projectPath": "C:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\Asynchronus.csproj",
-      "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-      "outputPath": "C:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\obj\\",
+      "projectPath": "c:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\Asynchronus.csproj",
+      "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+      "outputPath": "c:\\c#masterrace\\bootcamp\\Week4\\4day4\\Asynchronus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
