@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Bs7SYfS4LfC7agkTnFV3vxQZS7PhPwsXvw97ngf+aXhMrQPmgl+66ED6UXUXzvGVts3LdDzjmwEEhAmxZPzlA==",
+  "success": true,
+  "projectFilePath": "c:\\c#masterrace\\bootcamp\\Week7\\7day1\\ASPNET\\ASPNET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Batch 2\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
