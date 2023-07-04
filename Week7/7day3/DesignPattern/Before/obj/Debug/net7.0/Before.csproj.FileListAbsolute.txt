@@ -1,0 +1,15 @@
+C:\formulatrix\bootcamp\Week7\7day3\DesignPattern\Before\bin\Debug\net7.0\Before.exe
+C:\formulatrix\bootcamp\Week7\7day3\DesignPattern\Before\bin\Debug\net7.0\Before.deps.json
+C:\formulatrix\bootcamp\Week7\7day3\DesignPattern\Before\bin\Debug\net7.0\Before.runtimeconfig.json
+C:\formulatrix\bootcamp\Week7\7day3\DesignPattern\Before\bin\Debug\net7.0\Before.dll
+C:\formulatrix\bootcamp\Week7\7day3\DesignPattern\Before\bin\Debug\net7.0\Before.pdb
+C:\formulatrix\bootcamp\Week7\7day3\DesignPattern\Before\obj\Debug\net7.0\Before.csproj.AssemblyReference.cache
+C:\formulatrix\bootcamp\Week7\7day3\DesignPattern\Before\obj\Debug\net7.0\Before.GeneratedMSBuildEditorConfig.editorconfig
+C:\formulatrix\bootcamp\Week7\7day3\DesignPattern\Before\obj\Debug\net7.0\Before.AssemblyInfoInputs.cache
+C:\formulatrix\bootcamp\Week7\7day3\DesignPattern\Before\obj\Debug\net7.0\Before.AssemblyInfo.cs
+C:\formulatrix\bootcamp\Week7\7day3\DesignPattern\Before\obj\Debug\net7.0\Before.csproj.CoreCompileInputs.cache
+C:\formulatrix\bootcamp\Week7\7day3\DesignPattern\Before\obj\Debug\net7.0\Before.dll
+C:\formulatrix\bootcamp\Week7\7day3\DesignPattern\Before\obj\Debug\net7.0\refint\Before.dll
+C:\formulatrix\bootcamp\Week7\7day3\DesignPattern\Before\obj\Debug\net7.0\Before.pdb
+C:\formulatrix\bootcamp\Week7\7day3\DesignPattern\Before\obj\Debug\net7.0\Before.genruntimeconfig.cache
+C:\formulatrix\bootcamp\Week7\7day3\DesignPattern\Before\obj\Debug\net7.0\ref\Before.dll

@@ -115,19 +115,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Batch 2\\.nuget\\packages\\": {}
+    "C:\\Users\\7ix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\c#masterrace\\bootcamp\\Week7\\7day1\\ASPNET\\ASPNET.csproj",
+      "projectUniqueName": "c:\\formulatrix\\bootcamp\\Week7\\7day1\\ASPNET\\ASPNET.csproj",
       "projectName": "ASPNET",
-      "projectPath": "c:\\c#masterrace\\bootcamp\\Week7\\7day1\\ASPNET\\ASPNET.csproj",
-      "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-      "outputPath": "c:\\c#masterrace\\bootcamp\\Week7\\7day1\\ASPNET\\obj\\",
+      "projectPath": "c:\\formulatrix\\bootcamp\\Week7\\7day1\\ASPNET\\ASPNET.csproj",
+      "packagesPath": "C:\\Users\\7ix\\.nuget\\packages\\",
+      "outputPath": "c:\\formulatrix\\bootcamp\\Week7\\7day1\\ASPNET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\7ix\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -175,7 +175,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
